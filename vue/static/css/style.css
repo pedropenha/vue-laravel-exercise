@@ -1,0 +1,10 @@
+.link_border{
+  color: #131313;
+  text-decoration: none;
+}
+
+.link_border_active{
+  color: mediumpurple;
+  border-bottom: 2px solid mediumpurple;
+  text-decoration: none;
+}
